@@ -2,7 +2,7 @@
 
 I'm Danilo, a seasoned IT Service Delivery engineer working in a corporate environment supporting over 700 computers/users and a small data center. I specialize in software deployment, scripting, and automation and hold a strong enthusiasm for programming and development.
 
-I write about sysadmin stuff, scripting, and problem-solving.
+I occasionally write about sysadmin stuff, scripting, and problem-solving.
 
 You can find me at these places:
 
@@ -10,7 +10,7 @@ You can find me at these places:
 
 ---  
 ### Learning, writing, sharing
-I like to learn and share knowledge. Also, I wrote numerous technical guides, notes and how-to's in my work and now I'm in a process of making those handy and public.
+I like to learn and share knowledge. Also, I wrote numerous technical guides, notes and how-to's in my work and now I'm in the process of making those handy and public.
 
 Below are repositories which you might find usefull:
 
@@ -21,5 +21,5 @@ Below are repositories which you might find usefull:
 ### What I'm up to?
 Currently, I'm learning about bash scripting and relational databases.
 <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbilanoski&show_icons=true&locale=en&layout=compact" alt="dbilanoski" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbilanoski&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" alt="dbilanoski" /></p>
 
