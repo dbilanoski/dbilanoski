@@ -1,8 +1,13 @@
 # 🚵‍♂️ Danilo Bilanoski
 
-I'm Danilo, a seasoned IT Service Delivery engineer working in a corporate environment supporting over 700 computers/users and a small data center. I specialize in software deployment, scripting, and automation and hold a strong enthusiasm for programming and development.
+Hi, I’m Danilo 👋
 
-I occasionally write about sysadmin stuff, scripting, and problem-solving.
+I’m an automation-focused IT engineer working in corporate environments, building scripts and workflows that reduce manual work, improve reliability and keep systems running smoothly.
+
+My background spans IT service delivery, system administration, customer experience analysis and Python-based automation. I enjoy working at the intersection of systems, data, and people, solving practical problems through scripting and automation.
+
+I occasionally write about sysadmin work, scripting, automation, and real-world problem-solving.
+
 
 You can find me at these places:
 
@@ -10,16 +15,20 @@ You can find me at these places:
 
 ---  
 ### Learning, writing, sharing
-I like to learn and share knowledge. Also, I wrote numerous technical guides, notes and how-to's in my work and now I'm in the process of making those handy and public.
 
-Below are repositories which you might find usefull:
+I enjoy learning and sharing knowledge. Over the years, I’ve written many internal technical guides, notes, and how-to documents, and I’m gradually making those resources public.
 
-* [WPKG-GP Packages](https://github.com/dbilanoski/wpkg-packages) - Colleciton of WPKG software installation scripts 
-* [Cheat-sheets](https://github.com/dbilanoski/cheat-sheets) - Personal collection of technical documentation
+Repositories you might find useful:
+
+- [WPKG-GP Packages](https://github.com/dbilanoski/wpkg-packages)  
+  A collection of real-world software deployment scripts used in corporate environments.
+
+- [Cheat-sheets](https://github.com/dbilanoski/cheat-sheets)  
+  A personal collection of technical notes and documentation gathered through hands-on work.
 
 ---
 ### What I'm up to?
-Currently, I'm learning about bash scripting and relational databases.
+Currently experimenting with automation and integration workflows in a personal homelab, while continuing to turn real-world operational knowledge into reusable tools and public documentation.
 <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbilanoski&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" alt="dbilanoski" /></p>
 
